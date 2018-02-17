@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_tray_button.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_tray_button.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_button_custom_disabled.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/button_custom_disabled.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_bg.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_bg.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_button_custom_default.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/button_custom_default.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_song_info.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/bg_song_info.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_back.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_back.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_button_custom.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/button_custom.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_forward.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_forward.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_button_custom_pressed.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/button_custom_pressed.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_button_custom_focussed.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/button_custom_focussed.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/layout_viewgroup_song_info.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/layout/viewgroup_song_info.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/layout_service_player.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/layout/service_player.xml"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_pause.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_pause.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_spot_play.png.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/drawable-mdpi/spot_play.png"
+    },
+    {
+        "merged": "/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/res/merged/debug/layout_viewgroup_player_buttons.xml.flat",
+        "source": "/Users/matthewherod/SpotifyTray-Android/app/src/main/res/layout/viewgroup_player_buttons.xml"
+    }
+]

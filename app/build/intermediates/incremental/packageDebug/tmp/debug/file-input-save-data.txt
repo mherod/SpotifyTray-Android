@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Feb 17 14:04:42 GMT 2018
+2.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/assets/debug
+5.set=ASSET
+0.path=adele.png
+2.baseType=DIRECTORY
+3.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.path=akon.jpg
+4.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/assets/debug
+count=6
+5.baseType=DIRECTORY
+2.path=daftpunk.jpg
+5.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/assets/debug
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=graffiti.jpg
+1.baseType=DIRECTORY
+5.path=greenday.jpg
+0.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/matthewherod/SpotifyTray-Android/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET
