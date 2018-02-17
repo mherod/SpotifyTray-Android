@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_song_info"
+    android:orientation="vertical"
+    android:paddingBottom="3dp"
+    android:paddingEnd="3dp"
+    android:paddingStart="3dp">
+
+    <TextView
+        android:id="@+id/song_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Rolling in the deep"
+        android:textColor="#bbffffff"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/singer_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Adele"
+        android:textColor="#bbb2fd25"
+        android:textSize="9sp" />
+
+</LinearLayout>
